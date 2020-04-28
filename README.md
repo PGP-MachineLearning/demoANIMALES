@@ -1,2 +1,2 @@
 # demoANIMALES
-Ejemplo de implementaciones de RNA en Google Colab
+Ejemplos de implementaciones de RNA en Google Colab con datos de Animales
